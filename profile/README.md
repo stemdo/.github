@@ -14,8 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stemdo&label=Profile%20views&color=0e75b6&style=flat" alt="stemdo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stemdo" alt="stemdo" /></a> </p>
-
 - 🙋‍♀️ A short introduction - what is your organization all about?
 
 - 🌈 Contribution guidelines - how can the community get involved?
@@ -30,7 +28,7 @@
 
 - 💬 Ask we about **DevSecOps, ALM, Javascript, Rust, Python, Appian, and more..**
 
-- 📫 How to reach me **jsilva@stemdo.io**
+- 📫 How to reach me **stemdo.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
