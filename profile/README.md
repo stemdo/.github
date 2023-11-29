@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **stemdo.io**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://stemdo.io" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/63db86c2a21f792461d4ffa0/63dc08f36796f76136eea604_Nav_logo.webp" alt="android" width="40" height="40"/> </a></h3>
 <p align="left">
 </p>
 
