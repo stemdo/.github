@@ -24,7 +24,7 @@
 
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-- 🔭 We are currently working like talent as Service. Selecting, training and mentoring young talents, helping them to develop professionally, in a more human way, promoting collaboration between stemdoers Community
+- 🔭 We are currently working like Talent as a Service. Recruiting, training and mentoring young talents, helping them to develop professionally, in a more human way, promoting collaboration between stemdoers Community
 
 - 💬 Ask we about **DevSecOps, ALM, Javascript, Rust, Python, Appian, and more..**
 
